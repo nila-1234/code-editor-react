@@ -1,4 +1,4 @@
-# To install the app and build locally
+# To install the app
 
 ### `npm install`
 
