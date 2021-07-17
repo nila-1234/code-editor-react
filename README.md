@@ -1,4 +1,4 @@
-# To install the app
+# To install the app and its dependencies
 
 ### `npm install`
 
